@@ -1,0 +1,13 @@
+pub use anchor_lang::prelude::*;
+
+#[derive(InitSpace)]
+#[account(discriminator = 1)] // 1-255
+pub struct Escrow {
+    pub seed: u64,
+    pub maker: Pubkey,
+    pub mint_a: Pubkey,
+    pub mint_b: Pubkey,
+    pub send: u64,
+    pub receive: u64,
+    pub bump: u8,
+}
