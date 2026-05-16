@@ -7,6 +7,8 @@ The program id configured for localnet is:
 ```text
 FTYviMqzWVj9b9jbFSwiSrGmxLwo4MKEFSruLpdRYTHW
 ```
+<img width="2880" height="1682" alt="image" src="https://github.com/user-attachments/assets/2b2da28e-c092-4657-a084-07249bfc2899" />
+
 
 ## What This Program Does
 
